@@ -1,4 +1,4 @@
-Are you looking for the WLED software for WS2812B LEDs? [Go here!](https://github.com/Aircoookie/WLED)!
+Are you looking for the WLED software for WS2812B LEDs? [Go here!](https://github.com/Aircoookie/WLED)
 
 ## Welcome to WLED-squared! (PRE ALPHA DEV 0.1.0 version)
 
@@ -26,6 +26,7 @@ WLED-squared will also support WS2812B matrices in the future.
 I'd recommend waiting until this project is in a more polished state. For now, check out [WLED](https://github.com/Aircoookie/WLED)!
 
 Most of the WLED doc applies to WLED-squared as well: [wiki](https://github.com/Aircoookie/WLED/wiki)
+
 Find out how to drive led matrices here: [tutorial](https://www.instructables.com/id/RGB-LED-Matrix-With-an-ESP8266/)
 
 ### Other
