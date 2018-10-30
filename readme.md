@@ -4,7 +4,7 @@ Are you looking for the WLED software for WS2812B LEDs? [Go here!](https://githu
 
 WLED fork with adapted driver to drive PxMatrix RGB led matrices.
 This project is currently still in the stage of my personal testing, which means I will NOT provide any support yet.
-Many values are hardcoded and there are a log of bugs and instabilities.
+Many values are hardcoded and there are a lot of bugs and instabilities.
 
 WLED-squared will also support WS2812B matrices in the future.
 
@@ -14,7 +14,7 @@ WLED-squared will also support WS2812B matrices in the future.
 - Full 2D spectrum analyzer effect in realtime mode
 
 ### Temporary Limitations:
-- Some of bugs and flickering
+- Some bugs and flickering
 - ESP8266 with enough pins only
 - 64x32 matrix only (smaller settable in code)
 
